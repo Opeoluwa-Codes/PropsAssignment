@@ -7,17 +7,17 @@ import ProductDescription from "../Components/ProductDescription";
 
 const ProductOne = () =>{
   return(
-    <DisplayContainer>
+    <DisplayContainerOne>
         <ProductImage/>
         <ProductName/>
         <ProductPrice/>
         <ProductDescription/>
-    </DisplayContainer>
+    </DisplayContainerOne>
   );
 };
 
 export default ProductOne;
 
-const DisplayContainer = styled.div`
+const DisplayContainerOne = styled.div`
     border: 1px black solid;
 `
