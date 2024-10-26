@@ -1,4 +1,4 @@
-import DisplayCard from "./Pages/displayCard"
+import DisplayCard from "./Pages/DisplayCard"
 
 import styled from "styled-components";
 
