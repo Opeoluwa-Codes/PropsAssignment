@@ -1,7 +1,7 @@
-import Picture from "../Components/picture"
-import Name from "../Components/name"
-import Age from "../Components/age"
-import Location from "../Components/location"
+import Picture from "../Components/Picture"
+import Name from "../Components/Name"
+import Age from "../Components/Age"
+import Location from "../Components/Location"
 
 
 import PP from "../assets/JPEG/PP.jpg"
